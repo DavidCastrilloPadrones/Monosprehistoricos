@@ -1,0 +1,10 @@
+h1{ font-style: oblique;
+    font-size: 130px;
+    text-align: center;
+    font-family: fantasy;
+}
+body{ background-image: linear-gradient(blue, rgb(100, 163, 240), rgb(179, 179, 179));
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1250px;
+}
