@@ -31,3 +31,6 @@ table {
 body{
     background:linear-gradient(70deg,blue,rgb(137, 240, 111));}
     h1{color: blanchedalmond;}
+table, th, td {
+  border:1px solid black;
+}
