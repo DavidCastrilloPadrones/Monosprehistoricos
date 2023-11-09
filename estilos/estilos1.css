@@ -15,7 +15,7 @@ font-size:20px;
 display: inline block;
 border-radius: 5px;
 background-color: aquamarine;
-width: calc((100%/4)-10px);
+width: calc((100%/4));
 padding:10px 0px;
 border-style:outset;
 text-alig: center;
@@ -46,7 +46,12 @@ audio{border-radius: 10px;
      align-items: flex-end;
 }
 .acronimo {
-			font-weight: bold;
-			color: blue;
-            font-family: Arial;
+	font-weight: bold;
+	color: blue;
+	font-family: Arial;}
+h2{
+	font-size: 60px;
+	font-family: fantasy
+	
+}
     
