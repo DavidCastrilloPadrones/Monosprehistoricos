@@ -40,73 +40,7 @@ div{
 }
 video{border-radius: 20px;
      border-style: inset;}
-audio {
-	borde :  1px  negro sólido  ;
-	-webkit-box-shadow :  inserción  0  1px  0px  rgba ( 255 , 255 , 255 , .2 );
-	-moz-box-shadow :  inserción  0  1px  0px  rgba ( 255 , 255 , 255 , .2 );
-	sombra de cuadro :  inserción  0  1px  0px  rgba ( 255 , 255 , 255 , .2 );
-	antecedentes :  #494949 ;  /* Navegadores antiguos */
-fondo :  -webkit-linear-gradient ( arriba ,  #494949  0% ,  #434242  31% ,  #393838  55% ,  #242323  83% ,  #1b1a1a  100% ,  #161515  100% ,  #0b0b0b  100% );
-	fondo :  -moz-linear-gradient ( arriba ,  #494949  0% ,  #434242  31% ,  #393838  55% ,  #242323  83% ,  #1b1a1a  100% ,  #161515  100% ,  #0b0b0b  100% );
-	fondo :  -o-linear-gradient ( arriba ,  #494949  0% ,  #434242  31% ,  #393838  55% ,  #242323  83% ,  #1b1a1a  100% ,  #161515  100% ,  #0b0b0b  100% );
-	fondo :  -ms-linear-gradient ( arriba ,  #494949  0% ,  #434242  31% ,  #393838  55% ,  #242323  83% ,  #1b1a1a  100% ,  #161515  100% ,  #0b0b0b  100% );
-	fondo :  gradiente lineal ( arriba ,  #494949  0% ,  #434242  31% ,  #393838  55% ,  #242323  83% ,  #1b1a1a  100% ,  #161515  100% ,  #0b0b0b  100% );  /*W3C*/
-  -filtro de imagen :  progid : DXImageTransform . Microsoft . gradiente (  startColorstr = '#494949' ,  endColorstr = '#0b0b0b' , GradientType = 0  );  /* IE6-9 */
-}
-audio {
-	-webkit-transition :  todos  los .7  son fáciles ;
-	-moz-transition :  todos  los .7  son fáciles ;
-	-o-transición :  todos  los .7  facilitan ;
-	-ms-transition :  todos  los .7  facilitan ;
-	transición :  todos  los .7  son fáciles ;
-	posición :  absoluta ;
-	ancho :  427px ;
-	altura :  70 píxeles ;
-	-webkit-border-radio :  10px ;
-	-moz-border-radio :  10px ;
-	radio del borde :  10px ;
-	-webkit-box-shadow :  0px  0px  13px  rgba ( 0 , 0 , 0 , .3 ), inserto  0  1px  0px  rgba ( 255 , 255 , 255 , .2 );
-	-moz-box-shadow :  0px  0px  13px  rgba ( 0 , 0 , 0 , .3 ), inserto  0  1px  0px  rgba ( 255 , 255 , 255 , .2 );
-	sombra de cuadro :  0px  0px  13px  rgba ( 0 , 0 , 0 , .3 ), inserto  0  1px  0px  rgba ( 255 , 255 , 255 , .2 );
-	arriba :  50% ;
-	izquierda :  50% ;
-	margen :  -214px  0px  0px  -214px ;
-	relleno :  10px ;
-	-webkit-box-sizing :  borde-cuadro ;
-	-moz-box-sizing :  cuadro de borde ;
-	-ms-box-sizing :  cuadro de borde ;
-	tamaño de caja :  cuadro de borde ;
-}
-audio  {
-	altura :  427px ;
-}
-audio  {
-	-ms-filter :  "progid:DXImageTransform.Microsoft.Alpha(Opacidad=0)" ;
-	filtro :  alfa ( opacidad = 0 );
-	opacidad :  0 ;
-	ancho :  398px ;
-	altura :  10px ;
-	borde :  2px  negro sólido  ;
-	-webkit-border-radio :  5px ;
-	-moz-border-radio :  5px ;
-	radio del borde :  5px ;
-	-webkit-box-shadow :  inserción  0px  5px  5px  rgba ( 0 , 0 , 0 , 1 );
-	-moz-box-shadow :  inserción  0px  5px  5px  rgba ( 0 , 0 , 0 , 1 );
-	sombra de cuadro :  inserción  0px  5px  5px  rgba ( 0 , 0 , 0 , 1 );
-}
-audio  {
-	-ms-filter :  "progid:DXImageTransform.Microsoft.Alpha(Opacidad=100)" ;
-	filtro :  alfa ( opacidad = 100 );
-	opacidad :  1 ;
-	altura :  398px ;
-	-webkit-transition :  opacidad  .7s  facilidad ;
-	-moz-transition :  opacidad  .7s  facilidad ;
-	-o-transición :  opacidad  .7s  facilidad ;
-	-ms-transition :  opacidad  .7s  facilidad ;
-	transición :  opacidad  .7s  facilidad ;
-	-webkit-transición-retraso :  .5s ;
-	-retraso-de-transición-moz :  .5s ;
-	-o-retraso-de-transición :  .5s ;
-	-ms-retraso-de-transición :  .5s ;
-	retraso de transición :  .5s ;
+
+audio{border-radius: 10px;
+     border-style: solid;
 }
