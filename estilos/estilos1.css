@@ -3,7 +3,7 @@ h1{ font-style: oblique;
     text-align: center;
     font-family: fantasy;
 }
-hr{ size: 10px;
+hr{ width: 10px;
 
 }
 body{background-color: rgb(140, 157, 161);
