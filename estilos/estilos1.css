@@ -11,15 +11,19 @@ body{background-color: rgb(140, 157, 161);
 }
 
 .boton{
-font-size:20px;
-display: inline block;
-border-radius: 5px;
-background-color: aquamarine;
-width: calc((100%/4)-10px);
-padding:10px 0px;
-border-style:outset;
-text-alig: center;
-
+border: 1px solid #498178; /*anchura, estilo y color borde*/
+padding: 10px; /*espacio alrededor texto*/
+background-color: #4c4f58; /*color botón*/
+color: rgb( 140,157,161); /*color texto*/
+text-decoration: none; /*decoración texto*/
+text-transform: uppercase; /*capitalización texto*/
+font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+border-radius: 20px; /*bordes redondos*/;
+flex-shrink: inherit;
+width: 23.65%;
+text-align: center ;
+margin-top: 20px;
+border-style: outset;/*bordes con efecto hacia afuera*/
 }
 div.boton{display: inline-block; 
 }
