@@ -3,8 +3,33 @@ h1{ font-style: oblique;
     text-align: center;
     font-family: fantasy;
 }
-body{ background-image: linear-gradient(blue, rgb(100, 163, 240), rgb(179, 179, 179));
+body{ background-image: linear-gradient(rgb(62, 71, 73), rgb(109, 113, 118), rgb(212, 198, 198));
     background-repeat: no-repeat;
     background-size: cover;
     height: 1250px;
+    margin: 110px;
+    text-align: center;
+}
+h2{ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', ;
+    color: rgb(43, 199, 40);
+    font-size: 40px;
+
+}
+h3{ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold',;
+    color: rgb(101, 214, 99);
+    font-size: 40px;
+
+}
+h4{ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold',;
+    color: rgb(131, 223, 130);
+    font-size: 40px;
+
+}
+h5{ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold',;
+    color: rgb(143, 223, 141);
+    font-size: 40px;
+}
+#sudaderas{
+    padding: 15px;
+
 }
