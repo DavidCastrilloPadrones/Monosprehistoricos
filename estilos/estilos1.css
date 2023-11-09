@@ -26,7 +26,8 @@ body{background-color: rgb(140, 157, 161);
 }
 div.boton{display: inline-block; 
 }
-.boton:hover{ background-color: rgb(75, 93, 40);}
+.boton:hover{ background-color: rgb(75, 93, 40);
+            cursor:grab}
 
 div{
     border: 30px;
