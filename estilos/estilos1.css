@@ -43,4 +43,6 @@ video{border-radius: 20px;
 
 audio{border-radius: 10px;
      border-style: solid;
+     text-align: right ;
+    color: (150,150,180)
 }
