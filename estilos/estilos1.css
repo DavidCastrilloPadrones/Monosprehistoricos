@@ -23,6 +23,7 @@ body{background-color: rgb(140, 157, 161);
     width: 23.65%;
     text-align: center ;
     margin-top: 20px;
+    border-style: outset;
 }
 div.boton{display: inline-block; 
 }
