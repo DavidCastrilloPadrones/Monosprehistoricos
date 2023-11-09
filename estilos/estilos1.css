@@ -44,8 +44,8 @@ video{border-radius: 20px;
 audio{border-radius: 10px;
      border-style: solid;
      display: flex;
-     width: 24px;
-     height: 24px;
+     width: 100px;
+     height: 32px;
      margin: 0 auto 10px;
      align-items: flex-end;
 }
