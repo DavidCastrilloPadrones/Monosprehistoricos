@@ -20,7 +20,7 @@ text-transform: uppercase; /*capitalización texto*/
 font-family: 'Helvetica', sans-serif; /*tipografía texto*/
 border-radius: 20px; /*bordes redondos*/;
 flex-shrink: inherit;
-width: calc(100%/4);
+width: calc(100%/4)-22);
 text-align: center ;
 margin-top: 20px;
 border-style: outset;/*bordes con efecto hacia afuera*/
