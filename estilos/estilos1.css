@@ -18,7 +18,7 @@ color: rgb( 140,157,161); /*color texto*/
 text-decoration: none; /*decoración texto*/
 text-transform: uppercase; /*capitalización texto*/
 font-family: 'Helvetica', sans-serif; /*tipografía texto*/
-border-radius: 20px; /*bordes redondos*/;
+border-radius: 20px; /*bordes redondos*/
 width: calc((100%/4) - 25px);
 text-align: center ;
 margin-top: 20px;
