@@ -19,8 +19,7 @@ text-decoration: none; /*decoración texto*/
 text-transform: uppercase; /*capitalización texto*/
 font-family: 'Helvetica', sans-serif; /*tipografía texto*/
 border-radius: 20px; /*bordes redondos*/;
-flex-shrink: inherit;
-width: calc(100%/4)-22);
+width: calc((100%/4) - 25px);
 text-align: center ;
 margin-top: 20px;
 border-style: outset;/*bordes con efecto hacia afuera*/
@@ -30,12 +29,12 @@ div.boton{display: inline-block;
 .boton:hover{ background-color: rgb(75, 93, 40);
             cursor:grab}
 
-div{
+#botones{
     border: 30px;
 }
 
 #foto1{
-   margin-top: 10px;
+   margin-top: 10px; 
 
 }
 video{border-radius: 20px;
