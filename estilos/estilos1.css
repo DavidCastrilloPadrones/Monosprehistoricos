@@ -31,6 +31,7 @@ div.boton{display: inline-block;
 
 #botones{
     border: 30px;
+	width: 100%;
 }
 
 #foto1{
