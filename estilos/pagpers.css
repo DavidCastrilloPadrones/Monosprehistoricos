@@ -1,8 +1,11 @@
 svg{
-  text-align:right;}
+  text-align:right; 
+  display:inline-block;}
 img{
   text-alig:left;
-  width:20%;}
+  width:40%;
+  display:inline-block;}
+h1{display:inline-block;}
 body{background-color: rgb(140, 157, 161);
 }
 div{display:inline-block;}
