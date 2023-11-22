@@ -5,10 +5,19 @@
 </head> 
 <body>
     <header><img src="img/David.jpg" type="img/jpg" alt="foto David Castrillo" width="60px"><h1>David Castrillo</h1>
-    <svg width="300" height="200">
-        <polygon points="100,10 40,198 190,78 10,78 160,198"
-        style="fill:rgb(0, 255, 200);stroke:rgb(226, 31, 226);stroke-width:5;fill-rule:evenodd;" />
-    </svg></header>
+    <svg viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg">
+  <path
+    fill="none"
+    stroke="lightgrey"
+    d="M20,50 C20,-50 180,150 180,50 C180-50 20,150 20,50 z" />
+
+  <circle r="5" fill="red">
+    <animateMotion
+      dur="10s"
+      repeatCount="indefinite"
+      path="M20,50 C20,-50 180,150 180,50 C180-50 20,150 20,50 z" />
+  </circle>
+</svg></header>
    <p>Soy David Castrillo, y formo parte de este grupo</p>
    <footer> 
     <iframe src="aboutus.html"></iframe>
