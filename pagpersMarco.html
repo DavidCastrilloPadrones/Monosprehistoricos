@@ -2,15 +2,20 @@
 <html>
     <head>
         <title>Marco Alconero</title>
-        <link rel="stylesheet" type="text/css" href="estilos/pagpers.css">
     </head>
 <body>
     <header>
-        <img src="img/TESLITA.jpg" type="img/jpg" alt="foto Marco" width="60px"><h1>Marco Alconeoro</h1> 
+        <img src="img/TESLITA.jpg" type="img/jpg" alt="foto TESLITA"><h1>Marco Alconeoro</h1> 
         <svg width="300" height="200">
-        <polygon points="100,10 40,198 190,78 10,78 160,198"
-        style="fill:lime;stroke:purple;stroke-width:5;fill-rule:evenodd;" />
-      </svg>
+             viewBox="0 0 100 100">
+                <clipPath id="myClip">
+                  <circle cx="40" cy="35" r="35" />
+                </clipPath>
+                <path
+                  id="heart"
+                  d="M10,30 A20,20,0,0,1,50,30 A20,20,0,0,1,90,30 Q90,60,50,90 Q10,60,10,30 Z" />
+                <use clip-path="url(#myClip)" href="#heart" fill="red" />
+        </svg>
     </header>
     <p>Me llamo Marco y soy un integrante de los monos prehistoricos</p>
     <footer>
