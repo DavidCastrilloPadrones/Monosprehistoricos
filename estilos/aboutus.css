@@ -1,2 +1,8 @@
-a{
-  display: inline-block;}
+div{
+  display: inline-block;
+}
+body{
+  margin-top: 200px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
