@@ -1,11 +1,12 @@
-div{
-  display: inline-block;
-}
-a{
-  display: block;
-}
+  div{
+    display: inline-block;
 
-body{
-  margin-top: 100px;
-  background-color: rgb(140, 157, 161);
-}
+  }
+  p{
+    display: block;
+  }
+
+  body{
+    margin-top: 100px;
+    background-color: rgb(140, 157, 161);
+  }
