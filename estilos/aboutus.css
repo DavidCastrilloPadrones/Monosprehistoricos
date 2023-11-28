@@ -1,12 +1,9 @@
-  div{
-    display: inline-block;
-
-  }
-  p{
-    display: block;
-  }
 
   body{
     margin-top: 100px;
     background-color: rgb(140, 157, 161);
   }
+  td{
+    width:25%;
+  }
+    
